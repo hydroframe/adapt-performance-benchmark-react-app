@@ -1,0 +1,16 @@
+/**
+ * CSS for LandingPage.js
+ * 
+ * Author:
+ * Nicholas Prussen
+ */
+
+.card-landing-page-height {
+    height: 350px;
+    margin-top: 20px;
+}
+
+.card-custom-hover:hover {
+    transition-duration: 0.3s;
+    background-color: lightgray;
+}

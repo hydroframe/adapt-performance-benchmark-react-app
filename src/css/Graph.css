@@ -1,0 +1,14 @@
+/**
+ * CSS for Graph.js
+ * 
+ * Author:
+ * Nicholas Prussen
+ */
+
+.bottom-spacer-div {
+    height: 350px;
+}
+
+.graph-danger-text {
+    font-size: 16px;
+}

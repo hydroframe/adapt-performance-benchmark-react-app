@@ -1,0 +1,20 @@
+/**
+ * CSS for ObjectIdForm.js
+ * 
+ * Author:
+ * Nicholas Prussen
+ */
+
+.card-obj-form-height {
+    width: 18rem;
+    margin-top: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.card-body p {
+    display: inline;
+    width: 40%;
+}

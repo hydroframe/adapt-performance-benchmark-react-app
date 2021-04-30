@@ -1,0 +1,43 @@
+
+node_modules/
+flaskbackend/static/css/
+flaskbackend/static/react/*
+flaskbackend/templates/index.html
+flaskbackend/templates/static/*
+
+#venv files
+flaskbackend/flaskandreact/
+
+#log
+*.log
+
+#Caches
+Backups/
+blob_storage/
+Cache/
+CachedData/
+CachedExtensions/
+Code Cache/
+Cookies
+Cookies-journal
+Crash Reports/
+Dictionaries/
+exthost Crash Reports/
+GPUCache/
+Local Storage/
+logs/
+machineid
+Network Persistent State
+rapid_render.json
+Session Storage/
+User/
+Workspaces/
+TransportSecurity
+storage.json
+languagepacks.json
+
+#python cache files
+*.pyc
+*.backup
+
+.eslintcache

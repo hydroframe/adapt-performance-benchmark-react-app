@@ -1,0 +1,18 @@
+/**
+ * CSS for Index.js
+ * 
+ * Author:
+ * Nicholas Prussen
+ */
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.second-div {
+  padding-top: 50px;
+}
+
+.right-pad {
+  padding-right: 10px;
+}

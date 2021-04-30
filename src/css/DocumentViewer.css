@@ -1,0 +1,24 @@
+/**
+ * CSS for DocumentViewer.js
+ * 
+ * Author:
+ * Nicholas Prussen
+ */
+
+.bold {
+    font-weight: bold;
+}
+
+#data-list p {
+    margin: 0;
+    display: inline;
+    width: 40%;
+}
+
+#li-item-title {
+    font-size: 18px;
+}
+
+.margin-top-30 {
+    margin-top: 30px;
+}

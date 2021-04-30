@@ -1,0 +1,18 @@
+{
+    "R2": {
+        "subdomain": "r2",
+        "hostname": "r2.boisestate.edu"
+    },
+    "Puma": {
+        "subdomain": "puma",
+        "hostname": "puma.hpc.arizona.edu"
+    },
+    "Adapt": {
+        "subdomain": "adapt",
+        "hostname": "adapt.boisestate.edu"
+    },
+    "Onyx": {
+        "subdomain": "onyx",
+        "hostname": "onyx.boisestate.edu"
+    }
+}
